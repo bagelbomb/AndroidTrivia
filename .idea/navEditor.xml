@@ -34,13 +34,13 @@
                       </LayoutPositions>
                     </value>
                   </entry>
-                  <entry key="gameOverFragment2">
+                  <entry key="gameOverFragment">
                     <value>
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="740" />
-                            <option name="y" value="367" />
+                            <option name="x" value="738" />
+                            <option name="y" value="271" />
                           </Point>
                         </option>
                       </LayoutPositions>
@@ -52,7 +52,7 @@
                         <option name="myPosition">
                           <Point>
                             <option name="x" value="740" />
-                            <option name="y" value="-21" />
+                            <option name="y" value="-65" />
                           </Point>
                         </option>
                       </LayoutPositions>
