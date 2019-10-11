@@ -54,7 +54,13 @@ class GameFragment : Fragment() {
             Question(text = "Registers app with launcher?",
                     answers = listOf("intent-filter", "app-registry", "launcher-registry", "app-launcher")),
             Question(text = "Mark a layout for Data Binding?",
-                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>"))
+                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>")),
+            Question(text = "Android's recommended object-oriented language?",
+                    answers = listOf("Kotlin", "Java", "C++", "Python")),
+            Question(text = "Android's old object-oriented language?",
+                    answers = listOf("Java", "Kotlin", "C#", "XML")),
+            Question(text = "Android's layout language?",
+                    answers = listOf("XML", "Java", "Kotlin", "C"))
     )
 
     lateinit var currentQuestion: Question
